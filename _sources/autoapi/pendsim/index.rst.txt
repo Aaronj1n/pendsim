@@ -1,0 +1,27 @@
+:py:mod:`pendsim`
+=================
+
+.. py:module:: pendsim
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   controller/index.rst
+   sim/index.rst
+   test_controller/index.rst
+   utils/index.rst
+   viz/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   :value: '1.2.0'
+
+   
+

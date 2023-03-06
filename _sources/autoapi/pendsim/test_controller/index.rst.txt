@@ -1,0 +1,58 @@
+:py:mod:`pendsim.test_controller`
+=================================
+
+.. py:module:: pendsim.test_controller
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   pendsim.test_controller.pend
+   pendsim.test_controller.BangBang
+   pendsim.test_controller.PID
+   pendsim.test_controller.LQR
+   pendsim.test_controller.NoController
+   pendsim.test_controller.policy_args
+   pendsim.test_controller.test_policy_BangBang
+   pendsim.test_controller.test_policy_PID
+   pendsim.test_controller.test_policy_LQR
+   pendsim.test_controller.test_policy_NoController
+
+
+
+.. py:function:: pend()
+
+
+.. py:function:: BangBang()
+
+
+.. py:function:: PID()
+
+
+.. py:function:: LQR(pend)
+
+
+.. py:function:: NoController()
+
+
+.. py:function:: policy_args()
+
+
+.. py:function:: test_policy_BangBang(BangBang, policy_args)
+
+
+.. py:function:: test_policy_PID(PID, policy_args)
+
+
+.. py:function:: test_policy_LQR(LQR, policy_args)
+
+
+.. py:function:: test_policy_NoController(NoController, policy_args)
+
+
